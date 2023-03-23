@@ -80,5 +80,8 @@ textarea{
     border: transparent;
     margin: 5px 0;
     padding: 0 8px;
+    width: 21rem;
+    background-color: black;
+    color: whitesmoke;
 }
 

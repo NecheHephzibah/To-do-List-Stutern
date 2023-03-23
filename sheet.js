@@ -55,7 +55,7 @@ function activateEditListeners(){
 }
 
 function activateSaveListeners(){
-    const saveBtn = document.querySelectorAll(".save")
+    const saveBtn = document.querySelectorAll(".saveBtn")
     const inputs = document.querySelectorAll(".input-controller textarea")
     saveBtn.forEach((sb, i) => {
         sb.addEventListener("click", () => {
